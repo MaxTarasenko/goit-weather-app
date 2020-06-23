@@ -1,4 +1,4 @@
-import moreInfoTemp from '../../template/moreInfo.hbs';
+import moreInfoTemp from '../../template/moreinfo.hbs';
 import refs from '../refs';
 import api from '../apiService';
 let moreInfoData = {};
